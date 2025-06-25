@@ -1,2 +1,1 @@
-# sentimental-analysis
-sentimental analysis(project)
+This is a general description regarding my project rega
